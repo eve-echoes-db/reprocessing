@@ -1,27 +1,101 @@
-Item,Tritanium,Pyerite,Mexallon,Isogen,Nocxium,Zydrine,Megacyte,Morphite
-Veldspar,125,,,,,,,
-Scordite,48.6,34.5,,,,,,
-Pyroxeres,526,168,75,9,,,,
-Plagioclase,15.3,19.5,29.1,,,,,
-Omber,180,22.8,,16.5,,,,
-Kernite,79.8,,144,14.4,,,,
-Jaspet,,,738,,14.4,16.8,,
-Hemorphite,1650,,,48,3.9,15,,
-Hedbergite,,819,,138,2.7,4.2,,
-Spodumain,5910,1122,108,18,,,,
-Dark Ochre,288,,,16.8,12.9,,,
-Gneiss,,264,276,55.2,,,,
-Crokite,11640,,,,28.2,28.8,,
-Bistot,,1836,,,,10.8,23.7,
-Arkonor,2640,,300,,,,31.2,
-Mercoxit,,,,,,,,18
-MK1 Small Pulse Laser,150,36,,,,,,
-MK3 Small Pulse Laser,119,28,9,1,,,,
-MK5 Small Pulse Laser,335,81,27,4,1,,,
-MK7 Small Pulse Laser,638,154,52,9,2,,,
-MK9 Small Pulse Laser,940,227,77,13,3,1,,
-MK5 Medium Pulse Laser,1343,325,111,19,5,,,
-MK7 Medium Pulse Laser,2553,618,211,37,10,3,,
-MK9 Medium Pulse Laser,3761,911,311,54,15,5,2,
-MK7 Large Pulse Laser,10215,2476,846,149,41,14,,
-MK9 Large Pulse Laser,15044,3647,1246,220,61,21,10,
+Skill,Item,Component,Amount
+Common Ore,Veldspar,Tritanium,1.25
+Common Ore,Scordite,Tritanium,0.486
+Common Ore,Scordite,Pyerite,0.345
+Uncommon Ore,Pyroxeres,Tritanium,5.26
+Uncommon Ore,Pyroxeres,Pyerite,1.68
+Uncommon Ore,Pyroxeres,Mexallon,0.75
+Uncommon Ore,Pyroxeres,Isogen,0.09
+Common Ore,Plagioclase,Tritanium,0.153
+Common Ore,Plagioclase,Pyerite,0.195
+Common Ore,Plagioclase,Mexallon,0.291
+Uncommon Ore,Omber,Tritanium,0.18
+Uncommon Ore,Omber,Pyerite,0.228
+Uncommon Ore,Omber,Isogen,0.165
+Uncommon Ore,Kernite,Tritanium,0.798
+Uncommon Ore,Kernite,Mexallon,1.44
+Uncommon Ore,Kernite,Isogen,0.144
+Rare Ore,Jaspet,Mexallon,7.38
+Rare Ore,Jaspet,Nocxium,0.144
+Rare Ore,Jaspet,Zydrine,0.168
+Special Ore,Hemorphite,Tritanium,16.5
+Special Ore,Hemorphite,Isogen,0.48
+Special Ore,Hemorphite,Nocxium,0.039
+Special Ore,Hemorphite,Zydrine,0.15
+Rare Ore,Hedbergite,Pyerite,8.19
+Rare Ore,Hedbergite,Isogen,1.38
+Rare Ore,Hedbergite,Nocxium,0.027
+Rare Ore,Hedbergite,Zydrine,0.042
+Special Ore,Spodumain,Tritanium,59.1
+Special Ore,Spodumain,Pyerite,11.22
+Special Ore,Spodumain,Mexallon,1.08
+Special Ore,Spodumain,Isogen,0.18
+Uncommon Ore,Dark Ochre,Tritanium,2.88
+Uncommon Ore,Dark Ochre,Isogen,0.168
+Uncommon Ore,Dark Ochre,Nocxium,0.129
+Special Ore,Gneiss,Pyerite,2.64
+Special Ore,Gneiss,Mexallon,2.76
+Special Ore,Gneiss,Isogen,0.552
+Rare Ore,Crokite,Tritanium,116.4
+Rare Ore,Crokite,Nocxium,0.282
+Rare Ore,Crokite,Zydrine,0.288
+Precious Ore,Bistot,Pyerite,18.36
+Precious Ore,Bistot,Zydrine,0.108
+Precious Ore,Bistot,Megacyte,0.237
+Precious Ore,Arkonor,Tritanium,26.4
+Precious Ore,Arkonor,Mexallon,3
+Precious Ore,Arkonor,Megacyte,0.312
+Precious Ore,Mercoxit,Morphite,0.18
+Scrap Metal,MK1 Small Pulse Laser,Tritanium,150
+Scrap Metal,MK1 Small Pulse Laser,Pyerite,36
+Scrap Metal,MK3 Small Pulse Laser,Tritanium,119
+Scrap Metal,MK3 Small Pulse Laser,Pyerite,28
+Scrap Metal,MK3 Small Pulse Laser,Mexallon,9
+Scrap Metal,MK3 Small Pulse Laser,Isogen,1
+Scrap Metal,MK5 Small Pulse Laser,Tritanium,335
+Scrap Metal,MK5 Small Pulse Laser,Pyerite,81
+Scrap Metal,MK5 Small Pulse Laser,Mexallon,27
+Scrap Metal,MK5 Small Pulse Laser,Isogen,4
+Scrap Metal,MK5 Small Pulse Laser,Nocxium,1
+Scrap Metal,MK7 Small Pulse Laser,Tritanium,638
+Scrap Metal,MK7 Small Pulse Laser,Pyerite,154
+Scrap Metal,MK7 Small Pulse Laser,Mexallon,52
+Scrap Metal,MK7 Small Pulse Laser,Isogen,9
+Scrap Metal,MK7 Small Pulse Laser,Nocxium,2
+Scrap Metal,MK9 Small Pulse Laser,Tritanium,940
+Scrap Metal,MK9 Small Pulse Laser,Pyerite,227
+Scrap Metal,MK9 Small Pulse Laser,Mexallon,77
+Scrap Metal,MK9 Small Pulse Laser,Isogen,13
+Scrap Metal,MK9 Small Pulse Laser,Nocxium,3
+Scrap Metal,MK9 Small Pulse Laser,Zydrine,1
+Scrap Metal,MK5 Medium Pulse Laser,Tritanium,1343
+Scrap Metal,MK5 Medium Pulse Laser,Pyerite,325
+Scrap Metal,MK5 Medium Pulse Laser,Mexallon,111
+Scrap Metal,MK5 Medium Pulse Laser,Isogen,19
+Scrap Metal,MK5 Medium Pulse Laser,Nocxium,5
+Scrap Metal,MK7 Medium Pulse Laser,Tritanium,2553
+Scrap Metal,MK7 Medium Pulse Laser,Pyerite,618
+Scrap Metal,MK7 Medium Pulse Laser,Mexallon,211
+Scrap Metal,MK7 Medium Pulse Laser,Isogen,37
+Scrap Metal,MK7 Medium Pulse Laser,Nocxium,10
+Scrap Metal,MK7 Medium Pulse Laser,Zydrine,3
+Scrap Metal,MK9 Medium Pulse Laser,Tritanium,3761
+Scrap Metal,MK9 Medium Pulse Laser,Pyerite,911
+Scrap Metal,MK9 Medium Pulse Laser,Mexallon,311
+Scrap Metal,MK9 Medium Pulse Laser,Isogen,54
+Scrap Metal,MK9 Medium Pulse Laser,Nocxium,15
+Scrap Metal,MK9 Medium Pulse Laser,Zydrine,5
+Scrap Metal,MK9 Medium Pulse Laser,Megacyte,2
+Scrap Metal,MK7 Large Pulse Laser,Tritanium,10215
+Scrap Metal,MK7 Large Pulse Laser,Pyerite,2476
+Scrap Metal,MK7 Large Pulse Laser,Mexallon,846
+Scrap Metal,MK7 Large Pulse Laser,Isogen,149
+Scrap Metal,MK7 Large Pulse Laser,Nocxium,41
+Scrap Metal,MK7 Large Pulse Laser,Zydrine,14
+Scrap Metal,MK9 Large Pulse Laser,Tritanium,15044
+Scrap Metal,MK9 Large Pulse Laser,Pyerite,3647
+Scrap Metal,MK9 Large Pulse Laser,Mexallon,1246
+Scrap Metal,MK9 Large Pulse Laser,Isogen,220
+Scrap Metal,MK9 Large Pulse Laser,Nocxium,61
+Scrap Metal,MK9 Large Pulse Laser,Zydrine,21
+Scrap Metal,MK9 Large Pulse Laser,Megacyte,10
