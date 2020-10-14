@@ -2,7 +2,7 @@
 
 The [reprocessing.csv](https://github.com/eve-echoes-db/reprocessing/blob/main/reprocessing.csv) file contains reprocessing amounts for items in Eve Echoes.
 
-All the amounts are based on 100% reprocessing efficiency. To get the amounts based on your character, multiply the values by your character's reprocessing effeciency skill. All skills start out at 30% with a new character. Skilling various Resource Processing values will improve that percentage.
+All the amounts are based on 100% reprocessing efficiency. To get the amounts based on your character, multiply the amount by your character's reprocessing effeciency skill. All skills start out at 30% with a new character. Improving various Resource Processing skills will improve that percentage.
 
 ## How do I read this data?
 
@@ -31,6 +31,10 @@ A single Item can be on multiple rows. Each row corresponds to a different outpu
 > The ore amounts are 100 times bigger in the game. What's going on?
 
 Ore reprocessing amounts in the Reprocessing Database are based on a single ore, not the 100 minimum you need to reprocess.
+
+> Why are the amounts in this database much higher than what I get after reprocessing?
+
+These amounts are based on 100% Reprocessing Efficiency. You need to multiply the amounts by your character's reprocessing efficiency. Details are at the top of the README.
 
 ## Contributing
 
