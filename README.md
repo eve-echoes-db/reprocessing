@@ -2,7 +2,7 @@
 
 The [reprocessing.csv](https://github.com/eve-echoes-db/reprocessing/blob/main/reprocessing.csv) file contains reprocessing amounts for items in Eve Echoes.
 
-All the amounts are based on a fresh character with no skills in Reprocessing.
+All the amounts are based on 100% reprocessing efficiency. To get the amounts based on your character, multiply the values by your character's reprocessing effeciency skill. All skills start out at 30% with a new character. Skilling various Resource Processing values will improve that percentage.
 
 ## How do I read this data?
 
