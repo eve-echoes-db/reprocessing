@@ -1869,97 +1869,97 @@ Scrap Metal,Medium Damaged InterBus Hull,Damaged Close-in Weapon System,18
 Scrap Metal,Medium Damaged InterBus Hull,Contaminated Lorentz Fluid,9
 Scrap Metal,Large Damaged InterBus Hull,Scorched Telemetry Processor,26
 Scrap Metal,Large Damaged InterBus Hull,Contaminated Lorentz Fluid,18
-Common Ore,Veldspar,Tritanium,415
-Common Ore,Compressed Veldspar,Tritanium,415
-Common Ore,Scordite,Tritanium,162
-Common Ore,Scordite,Pyerite,115
-Common Ore,Compressed Scordite,Tritanium,162
-Common Ore,Compressed Scordite,Pyerite,115
-Uncommon Ore,Pyroxeres,Tritanium,1754
-Uncommon Ore,Pyroxeres,Pyerite,560
-Uncommon Ore,Pyroxeres,Mexallon,250
-Uncommon Ore,Pyroxeres,Nocxium,30
-Uncommon Ore,Compressed Pyroxeres,Tritanium,1754
-Uncommon Ore,Compressed Pyroxeres,Pyerite,560
-Uncommon Ore,Compressed Pyroxeres,Mexallon,250
-Uncommon Ore,Compressed Pyroxeres,Nocxium,30
-Common Ore,Plagioclase,Tritanium,51
-Common Ore,Plagioclase,Pyerite,65
-Common Ore,Plagioclase,Mexallon,97
-Common Ore,Compressed Plagioclase,Tritanium,51
-Common Ore,Compressed Plagioclase,Pyerite,65
-Common Ore,Compressed Plagioclase,Mexallon,97
-Uncommon Ore,Omber,Tritanium,600
-Uncommon Ore,Omber,Pyerite,76
-Uncommon Ore,Omber,Isogen,55
-Uncommon Ore,Compressed Omber,Tritanium,600
-Uncommon Ore,Compressed Omber,Pyerite,76
-Uncommon Ore,Compressed Omber,Isogen,55
-Uncommon Ore,Kernite,Tritanium,266
-Uncommon Ore,Kernite,Mexallon,480
-Uncommon Ore,Kernite,Isogen,48
-Uncommon Ore,Compressed Kernite,Tritanium,266
-Uncommon Ore,Compressed Kernite,Mexallon,480
-Uncommon Ore,Compressed Kernite,Isogen,48
-Rare Ore,Jaspet,Mexallon,2460
-Rare Ore,Jaspet,Nocxium,48
-Rare Ore,Jaspet,Zydrine,56
-Rare Ore,Compressed Jaspet,Mexallon,2460
-Rare Ore,Compressed Jaspet,Nocxium,48
-Rare Ore,Compressed Jaspet,Zydrine,56
-Special Ore,Hemorphite,Tritanium,5500
-Special Ore,Hemorphite,Isogen,160
-Special Ore,Hemorphite,Nocxium,13
-Special Ore,Hemorphite,Zydrine,50
-Special Ore,Compressed Hemorphite,Tritanium,5500
-Special Ore,Compressed Hemorphite,Isogen,160
-Special Ore,Compressed Hemorphite,Nocxium,13
-Special Ore,Compressed Hemorphite,Zydrine,50
-Rare Ore,Hedbergite,Pyerite,2730
-Rare Ore,Hedbergite,Isogen,459
-Rare Ore,Hedbergite,Nocxium,9
-Rare Ore,Hedbergite,Zydrine,14
-Rare Ore,Compressed Hedbergite,Pyerite,2730
-Rare Ore,Compressed Hedbergite,Isogen,459
-Rare Ore,Compressed Hedbergite,Nocxium,9
-Rare Ore,Compressed Hedbergite,Zydrine,14
-Special Ore,Spodumain,Tritanium,19700
-Special Ore,Spodumain,Pyerite,3740
-Special Ore,Spodumain,Mexallon,360
-Special Ore,Spodumain,Isogen,60
-Special Ore,Compressed Spodumain,Tritanium,19700
-Special Ore,Compressed Spodumain,Pyerite,3740
-Special Ore,Compressed Spodumain,Mexallon,360
-Special Ore,Compressed Spodumain,Isogen,60
-Uncommon Ore,Dark Ochre,Tritanium,960
-Uncommon Ore,Dark Ochre,Isogen,56
-Uncommon Ore,Dark Ochre,Nocxium,43
-Uncommon Ore,Compressed Dark Ochre,Tritanium,960
-Uncommon Ore,Compressed Dark Ochre,Isogen,56
-Uncommon Ore,Compressed Dark Ochre,Nocxium,43
-Special Ore,Gneiss,Pyerite,880
-Special Ore,Gneiss,Mexallon,919
-Special Ore,Gneiss,Isogen,184
-Special Ore,Compressed Gneiss,Pyerite,880
-Special Ore,Compressed Gneiss,Mexallon,919
-Special Ore,Compressed Gneiss,Isogen,184
-Rare Ore,Crokite,Tritanium,38800
-Rare Ore,Crokite,Nocxium,94
-Rare Ore,Crokite,Zydrine,96
-Rare Ore,Compressed Crokite,Tritanium,38800
-Rare Ore,Compressed Crokite,Nocxium,94
-Rare Ore,Compressed Crokite,Zydrine,96
-Precious Ore,Bistot,Pyerite,6120
-Precious Ore,Bistot,Zydrine,36
-Precious Ore,Bistot,Megacyte,79
-Precious Ore,Compressed Bistot,Pyerite,6120
-Precious Ore,Compressed Bistot,Zydrine,36
-Precious Ore,Compressed Bistot,Megacyte,79
-Precious Ore,Arkonor,Tritanium,8800
-Precious Ore,Arkonor,Mexallon,1000
-Precious Ore,Arkonor,Megacyte,104
-Precious Ore,Compressed Arkonor,Tritanium,8800
-Precious Ore,Compressed Arkonor,Mexallon,1000
-Precious Ore,Compressed Arkonor,Megacyte,104
-Precious Ore,Mercoxit,Morphite,60
-Precious Ore,Compressed Mercoxit,Morphite,60
+Common Ore,Veldspar,Tritanium,4.15
+Common Ore,Compressed Veldspar,Tritanium,41.5
+Common Ore,Scordite,Tritanium,1.62
+Common Ore,Scordite,Pyerite,1.15
+Common Ore,Compressed Scordite,Tritanium,16.2
+Common Ore,Compressed Scordite,Pyerite,11.5
+Uncommon Ore,Pyroxeres,Tritanium,17.54
+Uncommon Ore,Pyroxeres,Pyerite,5.60
+Uncommon Ore,Pyroxeres,Mexallon,2.50
+Uncommon Ore,Pyroxeres,Nocxium,.30
+Uncommon Ore,Compressed Pyroxeres,Tritanium,175.4
+Uncommon Ore,Compressed Pyroxeres,Pyerite,56.0
+Uncommon Ore,Compressed Pyroxeres,Mexallon,25.0
+Uncommon Ore,Compressed Pyroxeres,Nocxium,3.0
+Common Ore,Plagioclase,Tritanium,.51
+Common Ore,Plagioclase,Pyerite,.65
+Common Ore,Plagioclase,Mexallon,.97
+Common Ore,Compressed Plagioclase,Tritanium,5.1
+Common Ore,Compressed Plagioclase,Pyerite,6.5
+Common Ore,Compressed Plagioclase,Mexallon,9.7
+Uncommon Ore,Omber,Tritanium,6.00
+Uncommon Ore,Omber,Pyerite,.76
+Uncommon Ore,Omber,Isogen,.55
+Uncommon Ore,Compressed Omber,Tritanium,60.0
+Uncommon Ore,Compressed Omber,Pyerite,7.6
+Uncommon Ore,Compressed Omber,Isogen,5.5
+Uncommon Ore,Kernite,Tritanium,2.66
+Uncommon Ore,Kernite,Mexallon,4.80
+Uncommon Ore,Kernite,Isogen,.48
+Uncommon Ore,Compressed Kernite,Tritanium,26.6
+Uncommon Ore,Compressed Kernite,Mexallon,48.0
+Uncommon Ore,Compressed Kernite,Isogen,4.8
+Rare Ore,Jaspet,Mexallon,24.60
+Rare Ore,Jaspet,Nocxium,.48
+Rare Ore,Jaspet,Zydrine,.56
+Rare Ore,Compressed Jaspet,Mexallon,246.0
+Rare Ore,Compressed Jaspet,Nocxium,4.8
+Rare Ore,Compressed Jaspet,Zydrine,5.6
+Special Ore,Hemorphite,Tritanium,55.00
+Special Ore,Hemorphite,Isogen,1.60
+Special Ore,Hemorphite,Nocxium,.13
+Special Ore,Hemorphite,Zydrine,.50
+Special Ore,Compressed Hemorphite,Tritanium,550.0
+Special Ore,Compressed Hemorphite,Isogen,16.0
+Special Ore,Compressed Hemorphite,Nocxium,1.3
+Special Ore,Compressed Hemorphite,Zydrine,5.0
+Rare Ore,Hedbergite,Pyerite,27.30
+Rare Ore,Hedbergite,Isogen,4.59
+Rare Ore,Hedbergite,Nocxium,.09
+Rare Ore,Hedbergite,Zydrine,.14
+Rare Ore,Compressed Hedbergite,Pyerite,273.0
+Rare Ore,Compressed Hedbergite,Isogen,45.9
+Rare Ore,Compressed Hedbergite,Nocxium,.9
+Rare Ore,Compressed Hedbergite,Zydrine,1.4
+Special Ore,Spodumain,Tritanium,197.00
+Special Ore,Spodumain,Pyerite,37.40
+Special Ore,Spodumain,Mexallon,3.60
+Special Ore,Spodumain,Isogen,.60
+Special Ore,Compressed Spodumain,Tritanium,1970.0
+Special Ore,Compressed Spodumain,Pyerite,374.0
+Special Ore,Compressed Spodumain,Mexallon,36.0
+Special Ore,Compressed Spodumain,Isogen,6.0
+Uncommon Ore,Dark Ochre,Tritanium,9.60
+Uncommon Ore,Dark Ochre,Isogen,.56
+Uncommon Ore,Dark Ochre,Nocxium,.43
+Uncommon Ore,Compressed Dark Ochre,Tritanium,96.0
+Uncommon Ore,Compressed Dark Ochre,Isogen,5.6
+Uncommon Ore,Compressed Dark Ochre,Nocxium,4.3
+Special Ore,Gneiss,Pyerite,8.80
+Special Ore,Gneiss,Mexallon,9.19
+Special Ore,Gneiss,Isogen,1.84
+Special Ore,Compressed Gneiss,Pyerite,88.0
+Special Ore,Compressed Gneiss,Mexallon,91.9
+Special Ore,Compressed Gneiss,Isogen,18.4
+Rare Ore,Crokite,Tritanium,388.00
+Rare Ore,Crokite,Nocxium,.94
+Rare Ore,Crokite,Zydrine,.96
+Rare Ore,Compressed Crokite,Tritanium,3880.0
+Rare Ore,Compressed Crokite,Nocxium,9.4
+Rare Ore,Compressed Crokite,Zydrine,9.6
+Precious Ore,Bistot,Pyerite,61.20
+Precious Ore,Bistot,Zydrine,.36
+Precious Ore,Bistot,Megacyte,.79
+Precious Ore,Compressed Bistot,Pyerite,612.0
+Precious Ore,Compressed Bistot,Zydrine,3.6
+Precious Ore,Compressed Bistot,Megacyte,7.9
+Precious Ore,Arkonor,Tritanium,88.00
+Precious Ore,Arkonor,Mexallon,10.00
+Precious Ore,Arkonor,Megacyte,1.04
+Precious Ore,Compressed Arkonor,Tritanium,880.0
+Precious Ore,Compressed Arkonor,Mexallon,100.0
+Precious Ore,Compressed Arkonor,Megacyte,10.4
+Precious Ore,Mercoxit,Morphite,.60
+Precious Ore,Compressed Mercoxit,Morphite,6.0
