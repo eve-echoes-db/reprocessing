@@ -21,7 +21,7 @@ A single Item can be on multiple rows. Each row corresponds to a different outpu
 -   Copy and paste the below text into a cell:
 
 ```
-=importdata("https://raw.githubusercontent.com/eve-echoes-db/reprocessing/test/reprocessing.csv")
+=importdata("https://raw.githubusercontent.com/eve-echoes-db/reprocessing/main/reprocessing.csv")
 ```
 
 -   After a couple of seconds the table should show up in your Sheet.
